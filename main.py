@@ -1,7 +1,4 @@
-#1. Знайти відкрите джерело даних, що містить список підрозділів з URL для переходу на сторінку цього підрозділу. Кожна із сторінок повинна  містити список деяких об'єктів.
 
-
-#2. Переконатись, що сторінки є статичними. Використовуючи бібліотеку requests завантажити сторінку зі списком та вивести в консоль.from requests import get
 from requests import get
 from bs4 import BeautifulSoup
 
@@ -43,6 +40,9 @@ with open(FILE_NAME, "w", encoding="utf-8") as file:
                 print(f"    Кафедра: {department_name}")
                 print(f"    URL кафедри: {department_link}")
 
+
+#код для працівників не виводить їх коректно через структуру савйту, у коді нижче я показую можливі шляхи,
+#як можна було б вивести ці дані
                 # доступ до сторінки для пошуку працівника
                 department_page = get(department_link)
                 department_soup = BeautifulSoup(department_page.content, "html.parser")
