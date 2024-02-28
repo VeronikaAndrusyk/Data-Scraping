@@ -1,0 +1,131 @@
+Назва факультету: Навчально-науковий інститут біології, хімії та біоресурсів
+URL: http://ibhb.chnu.edu.ua/
+Назва факультету: Навчально-науковий інститут фізико-технічних та комп’ютерних наук
+URL: http://ptcsi.chnu.edu.ua/
+Назва факультету: Факультет архітектури, будівництва та декоративно-прикладного мистецтва
+URL: http://arhibud.chnu.edu.ua/index.php?page=ua
+    Кафедра: Кафедра прикладної математики та інформаційних технологій
+    URL кафедри: https://www.facebook.com/AppMathAndIT?__cft__[0]=AZWWajahhVu7B6yQBKZWaMGxSQ7xV6meYiUQVLBNzuU_gSrLAWyfgLxNgeqgkMptOa0KLe6uRJPiwxsfabwWeNXdAmoalgYx12_cBVOc4mTr8Ix_7Cc3Jv8bbe1dnIzWTo-XpZyGsxHn2HOAiTNCfdiA&__tn__=-]K-R
+Назва факультету: Географічний факультет
+URL: http://geo.chnu.edu.ua/index.php?page=ua
+Назва факультету: Економічний факультет
+URL: https://econom.chnu.edu.ua/
+    Кафедра: Кафедра економіко-математичного моделювання
+    URL кафедри: http://emm.cv.ua
+    Кафедра: Кафедра бізнесу та управління персоналом
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-ekonomiky-pidpryyemstva-ta-up
+    Кафедра: Кафедра маркетингу, інновацій та регіонального розвитку
+    URL кафедри: http://mmix.cv.ua
+    Кафедра: Кафедра економічної теорії, менеджменту та адміністрування
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-menedzhmentu-ekonomichnoyi-teo
+    Кафедра: Кафедра міжнародної економіки
+    URL кафедри: https://interec.info/
+    Кафедра: Кафедра обліку, аналізу, і аудиту
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-obliku-analizu-i-audytu
+    Кафедра: Кафедра фінансів і кредиту
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-finansiv-i-kredytu
+    Кафедра: Кафедра публічних, корпоративних фінансів та фінансового посередництва
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kaf-pub-about
+    Кафедра: Кафедра підприємництва, торгівлі та біржової діяльності
+    URL кафедри: https://econom.chnu.edu.ua/?page_id=10761
+Назва факультету: Факультет іноземних мов
+URL: https://mel.chnu.edu.ua/
+    Кафедра: Кафедра англійської мови
+    URL кафедри: http://english.chnu.edu.ua
+    Кафедра: Кафедра германського, загального і порівняльного мовознавства
+    URL кафедри: http://deutsch.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для гуманітарних факультетів
+    URL кафедри: http://liberal1.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для природничих факультетів
+    URL кафедри: http://natural1.chnu.edu.ua
+    Кафедра: Кафедра комунікативної лінгвістики та перекладу
+    URL кафедри: http://translationdept.chnu.edu.ua
+    Кафедра: Кафедра романської філології та перекладу
+    URL кафедри: http://french.chnu.edu.ua
+    Кафедра: Кафедра англійської мови
+    URL кафедри: http://english.chnu.edu.ua
+    Кафедра: Кафедра германського, загального і порівняльного мовознавства
+    URL кафедри: http://deutsch.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для гуманітарних факультетів
+    URL кафедри: http://liberal1.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для природничих факультетів
+    URL кафедри: http://natural1.chnu.edu.ua
+    Кафедра: Кафедра комунікативної лінгвістики та перекладу
+    URL кафедри: http://translationdept.chnu.edu.ua
+    Кафедра: Кафедра романської філології та перекладу
+    URL кафедри: http://french.chnu.edu.ua
+Назва факультету: Факультет історії, політології та міжнародних відносин
+URL: http://history.chnu.edu.ua/index.php?page=ua
+Назва факультету: Факультет математики та інформатики
+URL: https://fmi.chnu.edu.ua/
+    Кафедра: Кафедра алгебри та інформатики
+    URL кафедри: https://algebra.chnu.edu.ua/
+    Кафедра: Кафедра диференціальних рівнянь
+    URL кафедри: https://difeq.chnu.edu.ua/
+    Кафедра: Кафедра математичного аналізу
+    URL кафедри: https://math-analysis.chnu.edu.ua/
+    Кафедра: Кафедра математичного моделювання
+    URL кафедри: https://mathmod.chnu.edu.ua/
+    Кафедра: Кафедра прикладної математики та інформаційних технологій
+    URL кафедри: https://amit.chnu.edu.ua/
+Назва факультету: Факультет педагогіки,  психології та соціальної роботи
+URL: http://webchnunew.kl.com.ua/
+Назва факультету: Факультет фізичної культури та здоров'я людини
+URL: http://fizkult.chnu.edu.ua/
+    Кафедра: Кафедра військової підготовки
+    URL кафедри: http://cvp.chnu.edu.ua/index.php?page=ua
+    Кафедра: Кафедра фізичної реабілітації, ерготерапії та домедичної допомоги
+    URL кафедри: http://fizreab.chnu.edu.ua/
+    Кафедра: Кафедра фізичної культури та основ здоров’я
+    URL кафедри: http://fiz-zl.chnu.edu.ua/
+        Staff Name: 
+    Кафедра: Кафедра теорії та методики фізичної культури та спорту
+    URL кафедри: http://fks.chnu.edu.ua/
+    Кафедра: Кафедра фізичного виховання
+    URL кафедри: http://www.physprirod.chnu.edu.ua/
+Назва факультету: Філологічний факультет
+URL: http://philology.chnu.edu.ua/
+    Кафедра: Кафедра сучасної української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=193
+    Кафедра: Кафедра румунської та класичної філології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=222
+    Кафедра: Кафедра історії та культури української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=642
+    Кафедра: Кафедра української літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=600
+    Кафедра: Кафедра журналістики
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=671
+    Кафедра: Кафедра зарубіжної літератури та теорії літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=281
+    Кафедра: Кафедра філософії та культурології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=4165
+    Кафедра: Кафедра сучасної української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=193
+    Кафедра: Кафедра румунської та класичної філології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=222
+    Кафедра: Кафедра історії та культури української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=642
+    Кафедра: Кафедра української літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=600
+    Кафедра: Кафедра журналістики
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=671
+    Кафедра: Кафедра зарубіжної літератури та теорії літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=281
+    Кафедра: Кафедра філософії та культурології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=4165
+Назва факультету: Юридичний факультет
+URL: https://law.chnu.edu.ua/
+    Кафедра: Кафедра публічного права
+    URL кафедри: https://law.chnu.edu.ua/public-law/
+    Кафедра: Кафедра приватного права
+    URL кафедри: https://law.chnu.edu.ua/private-law/
+    Кафедра: Кафедра процесуального права
+    URL кафедри: https://law.chnu.edu.ua/procedural-law/
+    Кафедра: Кафедра кримінального права
+    URL кафедри: https://law.chnu.edu.ua/criminal-law/
+    Кафедра: Кафедра міжнародного права
+    URL кафедри: https://law.chnu.edu.ua/european-law/
+    Кафедра: Кафедра теорії права та прав людини
+    URL кафедри: https://law.chnu.edu.ua/human-rights/
+Назва факультету: Відокремлений структурний підрозділ «Фаховий коледж Чернівецького національного університету імені Юрія Федьковича»
+URL: http://college-chnu.cv.ua/
