@@ -1,0 +1,331 @@
+Назва факультету: Навчально-науковий інститут біології, хімії та біоресурсів
+URL: http://ibhb.chnu.edu.ua/
+Назва факультету: Навчально-науковий інститут фізико-технічних та комп’ютерних наук
+URL: http://ptcsi.chnu.edu.ua/
+Назва факультету: Факультет архітектури, будівництва та декоративно-прикладного мистецтва
+URL: http://arhibud.chnu.edu.ua/index.php?page=ua
+    Кафедра: Кафедра прикладної математики та інформаційних технологій
+    URL кафедри: https://www.facebook.com/AppMathAndIT?__cft__[0]=AZWWajahhVu7B6yQBKZWaMGxSQ7xV6meYiUQVLBNzuU_gSrLAWyfgLxNgeqgkMptOa0KLe6uRJPiwxsfabwWeNXdAmoalgYx12_cBVOc4mTr8Ix_7Cc3Jv8bbe1dnIzWTo-XpZyGsxHn2HOAiTNCfdiA&__tn__=-]K-R
+Назва факультету: Географічний факультет
+URL: http://geo.chnu.edu.ua/index.php?page=ua
+Назва факультету: Економічний факультет
+URL: https://econom.chnu.edu.ua/
+    Кафедра: Кафедра економіко-математичного моделювання
+    URL кафедри: http://emm.cv.ua
+    Кафедра: Кафедра бізнесу та управління персоналом
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-ekonomiky-pidpryyemstva-ta-up
+    Кафедра: Кафедра маркетингу, інновацій та регіонального розвитку
+    URL кафедри: http://mmix.cv.ua
+        Staff Name: 24.10 Вівторок
+        Staff Name: 25.10 Середа
+    Кафедра: Кафедра економічної теорії, менеджменту та адміністрування
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-menedzhmentu-ekonomichnoyi-teo
+    Кафедра: Кафедра міжнародної економіки
+    URL кафедри: https://interec.info/
+    Кафедра: Кафедра обліку, аналізу, і аудиту
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-obliku-analizu-i-audytu
+    Кафедра: Кафедра фінансів і кредиту
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-finansiv-i-kredytu
+    Кафедра: Кафедра публічних, корпоративних фінансів та фінансового посередництва
+    URL кафедри: https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kaf-pub-about
+    Кафедра: Кафедра підприємництва, торгівлі та біржової діяльності
+    URL кафедри: https://econom.chnu.edu.ua/?page_id=10761
+Назва факультету: Факультет іноземних мов
+URL: https://mel.chnu.edu.ua/
+    Кафедра: Кафедра англійської мови
+    URL кафедри: http://english.chnu.edu.ua
+    Кафедра: Кафедра германського, загального і порівняльного мовознавства
+    URL кафедри: http://deutsch.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для гуманітарних факультетів
+    URL кафедри: http://liberal1.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для природничих факультетів
+    URL кафедри: http://natural1.chnu.edu.ua
+    Кафедра: Кафедра комунікативної лінгвістики та перекладу
+    URL кафедри: http://translationdept.chnu.edu.ua
+    Кафедра: Кафедра романської філології та перекладу
+    URL кафедри: http://french.chnu.edu.ua
+        Staff Name: Французька мова
+        Staff Name: Кафедра французької мови
+        Staff Name: Звіт про наукову роботу
+        Staff Name: кафедри кафедри романської філології та перекладу за 2021р.
+        Staff Name: І. Кафедральна тема
+        Staff Name: 2021-2025
+        Staff Name: Кількість виконавців
+        Staff Name: 8 штатних одиниць
+        Staff Name: трьох дисциплінарних напрямках
+        Staff Name: 8 публікацій
+        Staff Name: Мойсюк В.А.
+        Staff Name: Стефурак О.В.
+        Staff Name: Попович М.М.
+        Staff Name: Комаровська-Воловик В.Ф.
+        Staff Name: Драненко Г.Ф.
+        Staff Name: 5 франкомовних наукових проєктів
+        Staff Name: 9 викладачів
+        Staff Name: 9 країн
+        Staff Name: 12 статей
+        Staff Name: Н.О. Якубовська
+        Staff Name: О.В. Стефурак
+        Staff Name: Г.Ф. Драненко
+        Staff Name: .
+        Staff Name: Смірнова М.Р.
+        Staff Name: 13 кафедральних публікаціях
+        Staff Name: Руснак Д.А.
+        Staff Name: Смірнова М.Р
+        Staff Name: Матвєєвої О. О.
+        Staff Name: Смірнової М.Р
+        Staff Name: Якубовської
+        Staff Name: Н.О.
+        Staff Name: Кутасевич Г.Я.
+        Staff Name: Мойсюк В. А.
+        Staff Name: Матвєєва
+        Staff Name: О. О.
+        Staff Name: науковий лекторій
+        Staff Name: Якубовська Н.О.
+        Staff Name: ІІ. Міжнародне наукове та науково-технічне співробітництво
+        Staff Name: Якубовська
+        Staff Name: Н.О
+        Staff Name: Руснак Д.А.
+        Staff Name: IV.
+        Staff Name: 7 та 8 травня 2021 р.
+        Staff Name: Валері Зенатті
+        Staff Name: 65 учасниками
+        Staff Name: 25 дослідників перекладу з 9 країн
+        Staff Name: Посольства Франції в Україні
+        Staff Name: Поля Суліґу
+        Staff Name: Української асоціації викладачів французької мови
+        Staff Name: Н. Якубовська
+        Staff Name: Г. Драненко
+        Staff Name: М. Попович
+        Staff Name: О. Стефурак
+        Staff Name: Д. Руснак
+        Staff Name: 3 грудня 2021 р.
+        Staff Name: 6 країн
+        Staff Name: V
+        Staff Name: три студентські наукові гуртки
+        Staff Name: Lexicon
+        Staff Name: Translatio
+        Staff Name: результатів магістерських робіт
+        Staff Name: Студентські наукові конференції
+        Staff Name: 7 публікацій
+        Staff Name: 5 виступів
+        Staff Name: кафедри романської філології та перекладу за 2022 р.
+        Staff Name: Г.Ф. Драненко
+        Staff Name: Якубовської Н.О.
+        Staff Name: 5. Міжнародне наукове та науково-технічне співробітництво
+        Staff Name: Le Grand Continent
+        Staff Name: закладу вищої освіти Еколь Нормаль Сюперйер
+        Staff Name: Галиною Драненко
+        Staff Name: Галина Драненко
+        Staff Name: Матвєєва О.О.
+        Staff Name: LEXICON
+        Staff Name: ЗЗСО
+        Staff Name: Адреса
+        Staff Name: Графік роботи
+        Staff Name: E-mail
+    Кафедра: Кафедра англійської мови
+    URL кафедри: http://english.chnu.edu.ua
+    Кафедра: Кафедра германського, загального і порівняльного мовознавства
+    URL кафедри: http://deutsch.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для гуманітарних факультетів
+    URL кафедри: http://liberal1.chnu.edu.ua
+    Кафедра: Кафедра іноземних мов для природничих факультетів
+    URL кафедри: http://natural1.chnu.edu.ua
+    Кафедра: Кафедра комунікативної лінгвістики та перекладу
+    URL кафедри: http://translationdept.chnu.edu.ua
+    Кафедра: Кафедра романської філології та перекладу
+    URL кафедри: http://french.chnu.edu.ua
+        Staff Name: Французька мова
+        Staff Name: Кафедра французької мови
+        Staff Name: Звіт про наукову роботу
+        Staff Name: кафедри кафедри романської філології та перекладу за 2021р.
+        Staff Name: І. Кафедральна тема
+        Staff Name: 2021-2025
+        Staff Name: Кількість виконавців
+        Staff Name: 8 штатних одиниць
+        Staff Name: трьох дисциплінарних напрямках
+        Staff Name: 8 публікацій
+        Staff Name: Мойсюк В.А.
+        Staff Name: Стефурак О.В.
+        Staff Name: Попович М.М.
+        Staff Name: Комаровська-Воловик В.Ф.
+        Staff Name: Драненко Г.Ф.
+        Staff Name: 5 франкомовних наукових проєктів
+        Staff Name: 9 викладачів
+        Staff Name: 9 країн
+        Staff Name: 12 статей
+        Staff Name: Н.О. Якубовська
+        Staff Name: О.В. Стефурак
+        Staff Name: Г.Ф. Драненко
+        Staff Name: .
+        Staff Name: Смірнова М.Р.
+        Staff Name: 13 кафедральних публікаціях
+        Staff Name: Руснак Д.А.
+        Staff Name: Смірнова М.Р
+        Staff Name: Матвєєвої О. О.
+        Staff Name: Смірнової М.Р
+        Staff Name: Якубовської
+        Staff Name: Н.О.
+        Staff Name: Кутасевич Г.Я.
+        Staff Name: Мойсюк В. А.
+        Staff Name: Матвєєва
+        Staff Name: О. О.
+        Staff Name: науковий лекторій
+        Staff Name: Якубовська Н.О.
+        Staff Name: ІІ. Міжнародне наукове та науково-технічне співробітництво
+        Staff Name: Якубовська
+        Staff Name: Н.О
+        Staff Name: Руснак Д.А.
+        Staff Name: IV.
+        Staff Name: 7 та 8 травня 2021 р.
+        Staff Name: Валері Зенатті
+        Staff Name: 65 учасниками
+        Staff Name: 25 дослідників перекладу з 9 країн
+        Staff Name: Посольства Франції в Україні
+        Staff Name: Поля Суліґу
+        Staff Name: Української асоціації викладачів французької мови
+        Staff Name: Н. Якубовська
+        Staff Name: Г. Драненко
+        Staff Name: М. Попович
+        Staff Name: О. Стефурак
+        Staff Name: Д. Руснак
+        Staff Name: 3 грудня 2021 р.
+        Staff Name: 6 країн
+        Staff Name: V
+        Staff Name: три студентські наукові гуртки
+        Staff Name: Lexicon
+        Staff Name: Translatio
+        Staff Name: результатів магістерських робіт
+        Staff Name: Студентські наукові конференції
+        Staff Name: 7 публікацій
+        Staff Name: 5 виступів
+        Staff Name: кафедри романської філології та перекладу за 2022 р.
+        Staff Name: Г.Ф. Драненко
+        Staff Name: Якубовської Н.О.
+        Staff Name: 5. Міжнародне наукове та науково-технічне співробітництво
+        Staff Name: Le Grand Continent
+        Staff Name: закладу вищої освіти Еколь Нормаль Сюперйер
+        Staff Name: Галиною Драненко
+        Staff Name: Галина Драненко
+        Staff Name: Матвєєва О.О.
+        Staff Name: LEXICON
+        Staff Name: ЗЗСО
+        Staff Name: Адреса
+        Staff Name: Графік роботи
+        Staff Name: E-mail
+Назва факультету: Факультет історії, політології та міжнародних відносин
+URL: http://history.chnu.edu.ua/index.php?page=ua
+Назва факультету: Факультет математики та інформатики
+URL: https://fmi.chnu.edu.ua/
+    Кафедра: Кафедра алгебри та інформатики
+    URL кафедри: https://algebra.chnu.edu.ua/
+        Staff Name: Корисні посилання
+        Staff Name: Контакти
+    Кафедра: Кафедра диференціальних рівнянь
+    URL кафедри: https://difeq.chnu.edu.ua/
+        Staff Name: Контакти
+    Кафедра: Кафедра математичного аналізу
+    URL кафедри: https://math-analysis.chnu.edu.ua/
+        Staff Name: Корисні послання
+        Staff Name: Наші партнери
+        Staff Name: Контакти
+    Кафедра: Кафедра математичного моделювання
+    URL кафедри: https://mathmod.chnu.edu.ua/
+        Staff Name: Корисні посилання
+        Staff Name: Контакти
+    Кафедра: Кафедра прикладної математики та інформаційних технологій
+    URL кафедри: https://amit.chnu.edu.ua/
+        Staff Name: Корисні посилання
+        Staff Name: Контакти
+Назва факультету: Факультет педагогіки,  психології та соціальної роботи
+URL: http://webchnunew.kl.com.ua/
+Назва факультету: Факультет фізичної культури та здоров'я людини
+URL: http://fizkult.chnu.edu.ua/
+    Кафедра: Кафедра теорії та методики фізичного виховання і спорту
+    URL кафедри: http://fks.chnu.edu.ua/
+    Кафедра: Кафедра фізичної культури та основ здоров’я
+    URL кафедри: http://fiz-zl.chnu.edu.ua/
+        Staff Name: ОГОЛОШУЄ НАБІР 2024-2025 н.р.
+        Staff Name: 4 РОЗКЛАД
+        Staff Name: ПРОВЕДЕННЯ ТВОРЧОГО ЗАЛІКУ
+        Staff Name: Час проведення
+        Staff Name: Місце проведення
+    Кафедра: Кафедра фізичної реабілітації, ерготерапії та домедичної допомоги
+    URL кафедри: http://fizreab.chnu.edu.ua/
+    Кафедра: Кафедра фізичного виховання
+    URL кафедри: http://www.physprirod.chnu.edu.ua/index.php?page=ua
+    Кафедра: Кафедра військової підготовки
+    URL кафедри: http://cvp.chnu.edu.ua/index.php?page=ua
+        Staff Name: На час навчання на кафедрі військової підготовки надається відстрочка від призову на строкову військову службу.
+Назва факультету: Філологічний факультет
+URL: http://philology.chnu.edu.ua/
+    Кафедра: Кафедра сучасної української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=193
+        Staff Name: КАФЕДРА СУЧАСНОЇ УКРАЇНСЬКОЇ МОВИ
+    Кафедра: Кафедра румунської та класичної філології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=222
+    Кафедра: Кафедра історії та культури української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=642
+        Staff Name: Детальніше
+    Кафедра: Кафедра української літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=600
+        Staff Name: Кафедра української літератури
+    Кафедра: Кафедра журналістики
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=671
+        Staff Name: Кафедра журналістики
+    Кафедра: Кафедра зарубіжної літератури та теорії літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=281
+        Staff Name: .
+        Staff Name: Завідувачі кафедри
+        Staff Name: Кафедра зарубіжної літератури та теорії літератури
+        Staff Name: Серед вихованцві кафедри є відомі митці
+    Кафедра: Кафедра філософії та культурології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=4165
+    Кафедра: Кафедра сучасної української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=193
+        Staff Name: КАФЕДРА СУЧАСНОЇ УКРАЇНСЬКОЇ МОВИ
+    Кафедра: Кафедра румунської та класичної філології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=222
+    Кафедра: Кафедра історії та культури української мови
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=642
+        Staff Name: Детальніше
+    Кафедра: Кафедра української літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=600
+        Staff Name: Кафедра української літератури
+    Кафедра: Кафедра журналістики
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=671
+        Staff Name: Кафедра журналістики
+    Кафедра: Кафедра зарубіжної літератури та теорії літератури
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=281
+        Staff Name: .
+        Staff Name: Завідувачі кафедри
+        Staff Name: Кафедра зарубіжної літератури та теорії літератури
+        Staff Name: Серед вихованцві кафедри є відомі митці
+    Кафедра: Кафедра філософії та культурології
+    URL кафедри: http://philology.chnu.edu.ua/?page_id=4165
+Назва факультету: Юридичний факультет
+URL: https://law.chnu.edu.ua/
+    Кафедра: Кафедра публічного права
+    URL кафедри: https://law.chnu.edu.ua/public-law/
+        Staff Name: Гаврилюк Р.О.
+        Staff Name: Звіт про наукову-дослідну роботу
+        Staff Name: Індикатори
+    Кафедра: Кафедра приватного права
+    URL кафедри: https://law.chnu.edu.ua/private-law/
+        Staff Name: Гетьманцева Н.Д.
+        Staff Name: Звіт про наукову-дослідну роботу
+    Кафедра: Кафедра процесуального права
+    URL кафедри: https://law.chnu.edu.ua/procedural-law/
+        Staff Name: Щербанюк О.В.
+        Staff Name: Збірники Конференцій
+        Staff Name: Коротка історія
+    Кафедра: Кафедра кримінального права
+    URL кафедри: https://law.chnu.edu.ua/criminal-law/
+        Staff Name: Жаровська Г.П.
+        Staff Name: ОПП ПравоПрокуратура
+    Кафедра: Кафедра міжнародного права
+    URL кафедри: https://law.chnu.edu.ua/european-law/
+    Кафедра: Кафедра теорії права та прав людини
+    URL кафедри: https://law.chnu.edu.ua/human-rights/
+        Staff Name: Гураленко Н.А.
+Назва факультету: Відокремлений структурний підрозділ «Фаховий коледж Чернівецького національного університету імені Юрія Федьковича»
+URL: http://college-chnu.cv.ua/
