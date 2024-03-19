@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+<item><name>Навчально-науковий інститут біології, хімії та біоресурсів</name><url>http://ibhb.chnu.edu.ua/</url></item>
+<item><name>Навчально-науковий інститут фізико-технічних та комп’ютерних наук</name><url>http://ptcsi.chnu.edu.ua/</url></item>
+<item><name>Факультет архітектури, будівництва та декоративно-прикладного мистецтва</name><url>http://arhibud.chnu.edu.ua/index.php?page=ua</url></item>
+<item><name>Географічний факультет</name><url>http://geo.chnu.edu.ua/index.php?page=ua</url></item>
+<item><name>Економічний факультет</name><url>https://econom.chnu.edu.ua/</url></item>
+<item><name>Факультет іноземних мов</name><url>https://mel.chnu.edu.ua/</url></item>
+<item><name>Факультет історії, політології та міжнародних відносин</name><url>http://history.chnu.edu.ua/index.php?page=ua</url></item>
+<item><name>Факультет математики та інформатики</name><url>https://fmi.chnu.edu.ua/</url></item>
+<item><name>Факультет педагогіки,  психології та соціальної роботи</name><url>http://webchnunew.kl.com.ua/</url></item>
+<item><name>Факультет фізичної культури та здоров'я людини</name><url>http://fizkult.chnu.edu.ua/</url></item>
+<item><name>Філологічний факультет</name><url>http://philology.chnu.edu.ua/</url></item>
+<item><name>Юридичний факультет</name><url>https://law.chnu.edu.ua/</url></item>
+<item><name>Відокремлений структурний підрозділ «Фаховий коледж Чернівецького національного університету імені Юрія Федьковича»</name><url>http://college-chnu.cv.ua/</url></item>
+<item><name>Кафедра публічного права</name><url>https://law.chnu.edu.ua/public-law/</url><faculty>Юридичний факультет</faculty></item>
+<item><name>Кафедра приватного права</name><url>https://law.chnu.edu.ua/private-law/</url><faculty>Юридичний факультет</faculty></item>
+<item><name>Кафедра процесуального права</name><url>https://law.chnu.edu.ua/procedural-law/</url><faculty>Юридичний факультет</faculty></item>
+<item><name>Кафедра кримінального права</name><url>https://law.chnu.edu.ua/criminal-law/</url><faculty>Юридичний факультет</faculty></item>
+<item><name>Кафедра міжнародного права</name><url>https://law.chnu.edu.ua/european-law/</url><faculty>Юридичний факультет</faculty></item>
+<item><name>Кафедра теорії права та прав людини</name><url>https://law.chnu.edu.ua/human-rights/</url><faculty>Юридичний факультет</faculty></item>
+<item><name>Кафедра англійської мови</name><url>http://english.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра германського, загального і порівняльного мовознавства</name><url>http://deutsch.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра іноземних мов для гуманітарних факультетів</name><url>http://liberal1.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра іноземних мов для природничих факультетів</name><url>http://natural1.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра комунікативної лінгвістики та перекладу</name><url>http://translationdept.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра романської філології та перекладу</name><url>http://french.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра англійської мови</name><url>http://english.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра германського, загального і порівняльного мовознавства</name><url>http://deutsch.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра іноземних мов для гуманітарних факультетів</name><url>http://liberal1.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра іноземних мов для природничих факультетів</name><url>http://natural1.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра комунікативної лінгвістики та перекладу</name><url>http://translationdept.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра романської філології та перекладу</name><url>http://french.chnu.edu.ua</url><faculty>Факультет іноземних мов</faculty></item>
+<item><name>Кафедра алгебри та інформатики</name><url>https://algebra.chnu.edu.ua/</url><faculty>Факультет математики та інформатики</faculty></item>
+<item><name>Кафедра диференціальних рівнянь</name><url>https://difeq.chnu.edu.ua/</url><faculty>Факультет математики та інформатики</faculty></item>
+<item><name>Кафедра математичного аналізу</name><url>https://math-analysis.chnu.edu.ua/</url><faculty>Факультет математики та інформатики</faculty></item>
+<item><name>Кафедра математичного моделювання</name><url>https://mathmod.chnu.edu.ua/</url><faculty>Факультет математики та інформатики</faculty></item>
+<item><name>Кафедра прикладної математики та інформаційних технологій</name><url>https://amit.chnu.edu.ua/</url><faculty>Факультет математики та інформатики</faculty></item>
+<item><name>Кафедра сучасної української мови</name><url>http://philology.chnu.edu.ua/?page_id=193</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра румунської та класичної філології</name><url>http://philology.chnu.edu.ua/?page_id=222</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра історії та культури української мови</name><url>http://philology.chnu.edu.ua/?page_id=642</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра української літератури</name><url>http://philology.chnu.edu.ua/?page_id=600</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра журналістики</name><url>http://philology.chnu.edu.ua/?page_id=671</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра зарубіжної літератури та теорії літератури</name><url>http://philology.chnu.edu.ua/?page_id=281</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра філософії та культурології</name><url>http://philology.chnu.edu.ua/?page_id=4165</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра сучасної української мови</name><url>http://philology.chnu.edu.ua/?page_id=193</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра румунської та класичної філології</name><url>http://philology.chnu.edu.ua/?page_id=222</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра історії та культури української мови</name><url>http://philology.chnu.edu.ua/?page_id=642</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра української літератури</name><url>http://philology.chnu.edu.ua/?page_id=600</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра журналістики</name><url>http://philology.chnu.edu.ua/?page_id=671</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра зарубіжної літератури та теорії літератури</name><url>http://philology.chnu.edu.ua/?page_id=281</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра філософії та культурології</name><url>http://philology.chnu.edu.ua/?page_id=4165</url><faculty>Філологічний факультет</faculty></item>
+<item><name>Кафедра прикладної математики та інформаційних технологій</name><url>https://www.facebook.com/AppMathAndIT?__cft__[0]=AZWWajahhVu7B6yQBKZWaMGxSQ7xV6meYiUQVLBNzuU_gSrLAWyfgLxNgeqgkMptOa0KLe6uRJPiwxsfabwWeNXdAmoalgYx12_cBVOc4mTr8Ix_7Cc3Jv8bbe1dnIzWTo-XpZyGsxHn2HOAiTNCfdiA&amp;__tn__=-]K-R</url><faculty>Факультет архітектури, будівництва та декоративно-прикладного мистецтва</faculty></item>
+<item><name>Кафедра економіко-математичного моделювання</name><url>http://emm.cv.ua</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра теорії та методики фізичного виховання і спорту</name><url>http://fks.chnu.edu.ua/</url><faculty>Факультет фізичної культури та здоров'я людини</faculty></item>
+<item><name>Кафедра бізнесу та управління персоналом</name><url>https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-ekonomiky-pidpryyemstva-ta-up</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра маркетингу, інновацій та регіонального розвитку</name><url>http://mmix.cv.ua</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра економічної теорії, менеджменту та адміністрування</name><url>https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-menedzhmentu-ekonomichnoyi-teo</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра міжнародної економіки</name><url>https://interec.info/</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра обліку, аналізу, і аудиту</name><url>https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-obliku-analizu-i-audytu</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра фізичної культури та основ здоров’я</name><url>http://fiz-zl.chnu.edu.ua/</url><faculty>Факультет фізичної культури та здоров'я людини</faculty></item>
+<item><name>Кафедра фізичної реабілітації, ерготерапії та домедичної допомоги</name><url>http://fizreab.chnu.edu.ua/</url><faculty>Факультет фізичної культури та здоров'я людини</faculty></item>
+<item><name>Кафедра фізичного виховання</name><url>http://www.physprirod.chnu.edu.ua/index.php?page=ua</url><faculty>Факультет фізичної культури та здоров'я людини</faculty></item>
+<item><name>Кафедра військової підготовки</name><url>http://cvp.chnu.edu.ua/index.php?page=ua</url><faculty>Факультет фізичної культури та здоров'я людини</faculty></item>
+<item><name>Кафедра фінансів і кредиту</name><url>https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kafedra-finansiv-i-kredytu</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра публічних, корпоративних фінансів та фінансового посередництва</name><url>https://econom.chnu.edu.ua/kafedry-ekonomichnogo-fakultetu/kaf-pub-about</url><faculty>Економічний факультет</faculty></item>
+<item><name>Кафедра підприємництва, торгівлі та біржової діяльності</name><url>https://econom.chnu.edu.ua/?page_id=10761</url><faculty>Економічний факультет</faculty></item>
+</items>
